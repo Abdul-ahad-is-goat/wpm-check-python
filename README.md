@@ -2,6 +2,7 @@
 # project which check your wpm(words per minute)
 
 # Import the libraries we need
+
 import curses
 from curses import wrapper
 import time
