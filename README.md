@@ -1,5 +1,5 @@
 # wpm-check-python
-# my first 100 line project which check your wpm(words per minute)
+# project which check your wpm(words per minute)
 
 # Import the libraries we need
 import curses
